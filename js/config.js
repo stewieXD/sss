@@ -14,7 +14,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "";
+var l_serverName = "                        ";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -89,7 +89,6 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "T7K0pZ9tGi4", name: "Two Feet - Go F*ck Yourself"},
 	{youtube: "vZv9-TWdBJM", name: "Dr. Dre - The Next Episode (San Holo Remix)"},
-	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots - Stressed Out (Tomsize Remix)"},
 ];
 
 /*Random music order?*/
