@@ -53,7 +53,7 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"beyond.jpg"
+	"absornb.jpg"
 ];
 
 /*Random background images order?*/
@@ -78,7 +78,7 @@ var l_bgDarkening = 25;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = true;
+var l_music = false;
 
 /*Display actual song's name?*/
 var l_musicDisplay = true;
