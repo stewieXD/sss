@@ -103,9 +103,11 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!",
-	"Please join our steamgroup and leave feedback!"
+	"Don't Forget To Join The Website https://beyondservers.enjin.com/ "
+	"See Errors? Check out the collection http://steamcommunity.com/groups/BeyondRolePlay ",
+	"Draft is a stupid nigger"
+	"Join our steam group for a free 30k! http://steamcommunity.com/groups/BeyondRolePlay "
+
 ];
 
 /*Random message order?*/
