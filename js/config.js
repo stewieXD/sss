@@ -103,9 +103,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Don't Forget To Join The Website https://beyondservers.enjin.com/ "
+	"Don't Forget To Join The Website https://beyondservers.enjin.com/ ",
 	"See Errors? Check out the collection http://steamcommunity.com/groups/BeyondRolePlay ",
-	"Draft is a stupid nigger"
+	"Draft is a stupid nigger",
 	"Join our steam group for a free 30k! http://steamcommunity.com/groups/BeyondRolePlay "
 
 ];
