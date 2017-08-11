@@ -46,14 +46,14 @@ Avaiable options:
 You can add custom backgrounds
 Just make sure it is at webm VP8 format 
 (Put the files in the backgrounds/videos folder)*/
-var l_background = "absornb.jps";
+var l_background = "absornb.jpg";
 
 /*(Image-background only)
 Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"absornb.jps"
+	"absornb.jpg"
 ];
 
 /*Random background images order?*/
